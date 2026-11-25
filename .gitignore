@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.vscode/
+# 학생 배포용 공개 저장소라면 주석 해제 (정답 제외)
+# labs/instructor/
+# lesson_plan/fastapi_lesson_instructor.html
